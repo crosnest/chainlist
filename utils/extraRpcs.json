@@ -70,7 +70,7 @@
     },
     "25":{
         "rpcs":[
-            "http://rpc-cronos.cros-nest.com"
+            "https://rpc-cronos.cros-nest.com"
         ]
     },
     "42161":{
