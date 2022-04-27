@@ -70,10 +70,16 @@
     },
     "25":{
         "rpcs":[
-            "https://cronos-rpc.heavenswail.one/",
             "https://evm-cronos.crypto.org",
+            "https://cronos-rpc.heavenswail.one/",
+            "https://cronos-rpc.elk.finance/",
+            "https://rpc.nebkas.ro",
+            "https://mmf-rpc.xstaking.sg/",
             "https://cronosrpc-1.xstaking.sg/",
-            "https://cronos-rpc.elk.finance/"
+            "https://cronosrpc-2.xstaking.sg/",
+            "https://rpc.vvs.finance/",
+            "https://rpc.crodex.app/",
+            "http://rpc.cronos.cros-nest.com",
         ]
     },
     "42161":{
